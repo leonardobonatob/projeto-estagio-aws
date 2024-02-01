@@ -209,7 +209,7 @@ A seguir estão algumas práticas recomendadas para trabalhar com funções do L
 # Suporte e Autor
 
 ## Suporte
-Qualquer ajuda, você pode falar com o autor que pode lhe fornecer o suporte necessário para esta solução: bonatobl@amazon.com
+Qualquer ajuda, você pode falar com o autor que pode lhe fornecer o suporte necessário para esta solução: leonardobonatob@gmail.com
 
 ## Autores e agradecimentos
-O projeto/solução foi feito por Leonardo Bonato Bizaro, Estagiário de Professional Services em atividade dentro de WWCO ProServe. Você pode entrar em contato usando o seguinte e-mail: bonatobl@amazon.com
+O projeto/solução foi feito por Leonardo Bonato Bizaro, Estagiário de Professional Services em atividade dentro da AWS. Você pode entrar em contato usando o seguinte e-mail: leonardobonatob@gmail.com
